@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="445b9f51831386108827a470ceaad366" label="product" max_length="40" name="x_1178989_kunzum_product" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="omit_sys_original=true" label="Product price" max_length="20" name="product_price" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product name" max_length="40" name="product_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product description" max_length="500" name="product_description" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

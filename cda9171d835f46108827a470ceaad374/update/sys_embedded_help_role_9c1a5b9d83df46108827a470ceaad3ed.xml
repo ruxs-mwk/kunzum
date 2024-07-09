@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1178989_kunzum.end_user" name="x_1178989_kunzum.end_user">101a5b9d83df46108827a470ceaad3ed</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-09 06:56:54</sys_created_on>
+        <sys_id>9c1a5b9d83df46108827a470ceaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>101a5b9d83df46108827a470ceaad3ed</sys_name>
+        <sys_package display_value="Kunzum" source="x_1178989_kunzum">cda9171d835f46108827a470ceaad374</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kunzum">cda9171d835f46108827a470ceaad374</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9c1a5b9d83df46108827a470ceaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-09 06:56:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
